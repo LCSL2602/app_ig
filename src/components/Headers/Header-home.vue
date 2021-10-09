@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light">
-  <router-link class="navbar-brand text-light" to="/"  > <h4> Bifi </h4> </router-link>
+  <router-link class="navbar-brand text-light" to="/"  > <h4 class="" > Bifi </h4> </router-link>
   <button data-toggle="collapse" class="navbar-toggler btn btn-outline-light my-2 my-sm-0" type="button"> Sing up </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -18,4 +18,5 @@
     color:white;
     font-size: 1rem;
   }
+  
 </style>

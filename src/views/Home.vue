@@ -99,7 +99,7 @@ export default {
   }
   .img-size{
     height: 90%;
-    width: 90%;
+    width: 60%;
   }
   .img-size-sm{
     height: 40%;

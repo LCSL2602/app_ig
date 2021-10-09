@@ -5,7 +5,6 @@ const routes = [
     path: '/',
     name: 'Home',
     components:{
-      header: ()=> import('../components/Headers/Header-home.vue'),
       default:()=>  import('../views/Home.vue') ,
     } 
   },
